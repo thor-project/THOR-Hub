@@ -1,0 +1,17 @@
+---
+title: "Introduction for policy makers"
+excerpt: ""
+---
+Policy makers across the research domain are benefitting from the increased use of [Persistent Identifiers](https://project-thor.readme.io/docs/introduction-to-persistent-identifiers) (PIDs), which help to make more aspects of researcher's professional activities visible. Identifiers for people, datasets, organisations, publications and resources are a technological innovation with the power to help research and researchers at a global scale in the digital age.
+
+Research funders are integrating PIDs to make the creation, collection and analysis of research information easier, and more accurate. Here are just a few examples of how this works in practice.
+
+In the UK, the national research evaluation exercise, the [Research Excellence Framework](http://www.ref.ac.uk/) used [DOIs](doc:what-is-a-doi) to make the collection of journal articles for evaluation more [efficient](http://www.ref.ac.uk/about/guidance/submittingresearchoutputs/). If the researcher provided a DOI, they didn't need to submit a hard copy of their article. The Swedish national research council, the [Vetenskapsrådet](http://vr.se/), have made [ORCID iDs](doc:explaining-orcid) a mandatory part of their [grant application system](https://prisma.research.se/#orcid) making it easier to link individuals who have received funding to their publications.
+
+Publishers have long supported the use of DOIs for journal articles and cited datasets, as their ongoing support for [Crossref](http://crossref.org/) shows. However, there is a movement towards embedding identifiers for authors into articles and associated metadata, supported by a growing number of publishers who have started to [require ORCID iDs](https://orcid.org/content/requiring-orcid-publication-workflows-open-letter) for corresponding authors.
+
+These trends show the value of PIDs for policy makers in any organisation that creates or collects research information. But they mark just the beginning. A new [initiative](https://mozillascience.org/contributorship-badges-a-new-project) provides contributor badges for a range of vital activities, such as data curation or visualization. [Peer review](http://orcid.org/blog/2015/05/15/f1000-and-orcid-partner-launch-standard-citing-peer-review-activities) activities can now be credited in a standardised way. This increases transparency and trust, and enables funders, and employers to recognise and reward these essential contributions to the health of research.
+
+All of this information, connected using PIDs, can be linked back to the funders who helped to make it all possible via systems such as [Funding Data](http://www.crossref.org/fundingdata/) or to the institutions who hosted the work via services such as [GRID](https://grid.ac/).
+
+For anyone interested in understanding researcher behaviour, shaping research policy or in recognising the full scale of researchers' skills and professionalism, PIDs are now a fundamental part of their toolkit. Implementing PIDs, and encouraging others to do the same, is a brilliant investment in the efficiency, robustness and transparency of research, whatever the discipline and wherever it is carried out.
